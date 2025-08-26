@@ -1,0 +1,2 @@
+I started out with the neural network from the lecture, it didn't perform well, so I added another hidden layer with 128 nodes which worked and got me to about 96% accuracy.
+I played with changing the activation to sigmoid which did not work whatsoever. I also experimented with doubling the image pooling and convolution. I stuck to only convoluting twice and keeping the second hidden layer, however I reduced the number of nodes in half.
